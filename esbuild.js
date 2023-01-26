@@ -4,7 +4,7 @@ const entryPoints = glob.sync('./src/**/*.{ts,jsx,js}');
 
 build({
   entryPoints,
-  outdir: 'public/lib/',
+  outdir: 'docs/build/',
   bundle: true
 }).then((result) => {
   console.log(`ビルド完了`);

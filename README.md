@@ -27,3 +27,7 @@ https://speakerdeck.com/wakamsha/rmp-enziniabutokiyanpu-2017-youkoso-web-huronto
 - AltCSSとして Sass (SCSS)  を使用
 - フレームワークとして React  を使用
 ```
+
+### GitHub pages
+
+https://hiratsuka-r.github.io/task_AltJS/

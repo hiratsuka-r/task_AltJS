@@ -8,8 +8,8 @@
     "url": "git+https://github.com/hiratsuka-r/task_altJS.git"
   },
   "scripts": {
-    "clean": "rm -rf public/lib/**",
-    "build": "run-s clean  build:js",
+    "clean": "rm -rf docs/build/",
+    "build": "run-s clean build:js",
     "build:js": "node esbuild.js",
     "watch": "node --watch esbuild.js"
   },
