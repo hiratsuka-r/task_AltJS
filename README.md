@@ -22,9 +22,12 @@ https://speakerdeck.com/wakamsha/rmp-enziniabutokiyanpu-2017-youkoso-web-huronto
 - 以下の構成で検討中
 
 ```
-- タスクランナーとして Gulp を利用する
-- Gulpの watch を使って、変更したらビルド処理を実行する
-- AltJSとして TypeScript を使う
-- AltCSSとして Sass (SCSS) を使う
-- フレームワークとして React を使う
+- ビルドツールとして esbuild を利用
+- AltJSとして TypeScript を使用
+- AltCSSとして Sass (SCSS)  を使用
+- フレームワークとして React  を使用
 ```
+
+### GitHub pages
+
+https://hiratsuka-r.github.io/task_AltJS/
