@@ -1,0 +1,37 @@
+.l-welcome {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.l-welcome-color {
+  color: #d0d0d0;
+
+  &__red {
+    color: #de4141;
+  }
+
+  &__orange {
+    color: #e8ac51;
+  }
+
+  &__yellow {
+    color: #f2e55c;
+  }
+
+  &__green {
+    color: #39a869;
+  }
+
+  &__blue {
+    color: #4784bf;
+  }
+
+  &__indigo {
+    color: #5d5099;
+  }
+
+  &__violet {
+    color: #a55b9a;
+  }
+}
