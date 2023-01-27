@@ -1,0 +1,30 @@
+/* src/welcome.scss */
+.l-welcome {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 8px 0;
+}
+.l-welcome-color {
+  color: #d0d0d0;
+}
+.l-welcome-color__red {
+  color: #de4141;
+}
+.l-welcome-color__orange {
+  color: #e8ac51;
+}
+.l-welcome-color__yellow {
+  color: #f2e55c;
+}
+.l-welcome-color__green {
+  color: #39a869;
+}
+.l-welcome-color__blue {
+  color: #4784bf;
+}
+.l-welcome-color__indigo {
+  color: #5d5099;
+}
+.l-welcome-color__violet {
+  color: #a55b9a;
+}
