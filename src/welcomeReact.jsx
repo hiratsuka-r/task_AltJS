@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import AppModule from "./welcome.scss";
+import AppModule from "./welcomeReact.scss";
 
-//React:welcome
+//Hello React
 const doms = document.querySelectorAll(".js-welcome");
 
 const Welcome = (props) => {

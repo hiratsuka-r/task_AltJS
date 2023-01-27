@@ -23507,7 +23507,7 @@
     }
   });
 
-  // src/welcome.jsx
+  // src/welcomeReact.jsx
   var import_react = __toESM(require_react());
   var import_client = __toESM(require_client());
   var doms = document.querySelectorAll(".js-welcome");
